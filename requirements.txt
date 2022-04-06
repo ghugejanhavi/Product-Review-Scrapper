@@ -9,7 +9,7 @@ Flask-Cors==3.0.10
 gunicorn==20.0.4
 idna==2.10
 itsdangerous
-Jinja2==2.11.2
+Jinja2==3.0
 MarkupSafe==1.1.1
 pymongo==4.0.2
 python-docx==0.8.10

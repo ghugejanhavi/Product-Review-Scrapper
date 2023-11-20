@@ -1,6 +1,6 @@
 # Product-Review-Scrapper
 
-This tool scrapes product reviews from an ecommerce platform and display them in tabluar format
+This tool scrapes product reviews from an ecommerce platform and display them in tabular format
 
 ## Technologies Used
 - Python3 
